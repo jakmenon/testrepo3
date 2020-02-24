@@ -15,6 +15,7 @@ namespace GitHubTest
             //Update from feature
             //Test
             //Pull test
+            //Conflict test
             //test
         }
     }
